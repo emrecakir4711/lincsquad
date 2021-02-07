@@ -1,0 +1,17 @@
+{
+  "name": "lincsquad",
+  "version": "0.0.1",
+  "main": "lincsquadbot.js",
+  "scripts": {
+    "test": "node deneme.js"
+  },
+  "author": "Emre Cagan Cakir",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
